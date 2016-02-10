@@ -1,0 +1,2 @@
+HTTPS : https://github.com/esgiprojetannuel/sportschecker.git
+SSH : git@github.com:esgiprojetannuel/sportschecker.git
